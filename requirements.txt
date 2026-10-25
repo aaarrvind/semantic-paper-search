@@ -1,0 +1,14 @@
+datasets>=2.18
+rank_bm25>=0.2.2
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+nltk>=3.8
+scikit-learn>=1.3
+numpy
+pandas
+matplotlib
+gradio>=4.0
+# optional answer generation (already installed on Colab)
+transformers>=4.43
+torch
+accelerate
